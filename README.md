@@ -34,3 +34,13 @@ INSTRUCTIONS ON HOW TO RUN THE MODULE TIME MANAGEMENT APPLICATION
 3)Select the Module from the dropdown ComboBox, select the dat from DateSelection and enter the hours in, finally click "Record Hours".
 
 4)this Module List then will be displayed.
+
+
+--------------------------------------------------
+The following shows how the Application Looks Like
+--------------------------------------------------
+
+![image](https://github.com/ThakeerMoola/ST10213212_ThakeerMoola_PROG6212_POE/assets/102582551/be5c8de3-7d88-4b03-8ba1-7c2ad555775f)
+
+![image](https://github.com/ThakeerMoola/ST10213212_ThakeerMoola_PROG6212_POE/assets/102582551/d0b97816-834e-43d5-8698-f3c3f3d06d3b)
+
