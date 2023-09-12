@@ -15,9 +15,9 @@ SOFTWARE OVERVIEW
 -----------------
 Phase 1 - in this phase this software requests for user input such as the module information, once the information is submited the system will calculate the outcome of the results or time remaining.
 
-------------------------------------------------------------------
-INSTRUCTIONS ON HOW TO RUN THE MODULE TIME MANAGEMENT APPLICATION
-------------------------------------------------------------------
+--------------------------------------------------------------------------
+INSTRUCTIONS/COMPILE ON HOW TO RUN THE MODULE TIME MANAGEMENT APPLICATION
+--------------------------------------------------------------------------
 *Open the zip folder and double click ST10213212_ThakeerMoola_PROG6212_POE.sln it will run it in visual studio, this will open the main class and library class.
 
 *run or start the application once in visual studio.
@@ -43,4 +43,9 @@ The following shows how the Application Looks Like
 ![image](https://github.com/ThakeerMoola/ST10213212_ThakeerMoola_PROG6212_POE/assets/102582551/be5c8de3-7d88-4b03-8ba1-7c2ad555775f)
 
 ![image](https://github.com/ThakeerMoola/ST10213212_ThakeerMoola_PROG6212_POE/assets/102582551/d0b97816-834e-43d5-8698-f3c3f3d06d3b)
+
+----------------------
+GitHub Repository Link
+----------------------
+https://github.com/ThakeerMoola/ST10213212_ThakeerMoola_PROG6212_POE/tree/master
 
